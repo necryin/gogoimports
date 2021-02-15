@@ -1,5 +1,7 @@
 # gogoimports collapse imports to two groups: stdlib and other.
 
+Install: `go install github.com/necryin/gogoimports`
+
 **For example:**
 ```go
 import (
